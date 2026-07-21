@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center">
 
-<!--
-**buckets-of-fun/buckets-of-fun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ![](https://file.garden/aRJiOL-RcxklS7T1/popstar?v=1784645629503)    
 
-Here are some ideas to get you started:
+<p align="center">$\color{#ce88a2}{\textsf{This account is for Eve's comfort skins!}}$
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<details>
+<summary></summary>
+   <br>
+<p align="left">
+<ins><b><em><tr><td><br> </em></b></ins>
+
+<p align="center">$\color{#ce88a2}{\textsf{comfort character fits listed below!}}$
+<p align="center">$\color{#8d4761}{\textsf{WARNING: SOME OF THESE SKINS HAVE NOT BEEN MADE YET!!}}$
+<p align="center">$\color{#ce88a2}{\textsf{Amy rose in a sonic onesie!}}$
+<p align="center">$\color{#ce88a2}{\textsf{Cream as ice cream!}}$
+<p align="center">$\color{#ce88a2}{\textsf{Tails Prower in a sonic onesie!}}$
+<p align="center">$\color{#ce88a2}{\textsf{Pink Rose Quartz Amy rose!}}$
